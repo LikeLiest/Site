@@ -1,0 +1,1 @@
+reload = () => {window.location.reload();}
